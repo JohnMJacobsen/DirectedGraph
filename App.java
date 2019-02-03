@@ -1,11 +1,3 @@
-/**
- * Program 3
- * Daniel Valoria
- * cssc0811
- * John Jacobsen
- * cssc-none, Healy Approved
- */
-package edu.sdsu.cs;
 import edu.sdsu.cs.datastructures.DirectedGraph;
 
 import java.io.File;
