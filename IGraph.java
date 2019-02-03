@@ -1,5 +1,3 @@
-package edu.sdsu.cs.datastructures;
-
 import java.util.List;
 
 /**
