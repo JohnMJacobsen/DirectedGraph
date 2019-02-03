@@ -1,13 +1,3 @@
-package edu.sdsu.cs.datastructures;
-
-/**
- * Program 3
- * Daniel Valoria
- * cssc0811
- * John Jacobsen
- * cssc-none, Healy Approved
- */
-
 import java.util.*;
 
 public class DirectedGraph<V extends Comparable<V>> implements IGraph<V> {
